@@ -15,4 +15,8 @@ This repository was created for the [Developers-SAP tutorial](https://developers
 
 SAP BTP ABAP Environment: Create and Expose a CDS-Based Data Model.
 
+This tutorial is part of:
+
+- [Develop a Fiori App Using the ABAP RESTful Application Programming Model](https://developers.sap.com/group.abap-env-restful-managed.html)
+
 

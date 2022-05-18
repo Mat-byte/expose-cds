@@ -8,12 +8,10 @@ Hi there, this is Mateo Cano / Medellín (Colombia).
   Mateo Cano
 </a><br>
 
+
+## Repository Information:
+
 This repository was created for the [Developers-SAP tutorial](https://developers.sap.com/tutorials/abap-environment-data-model.html). 
-
-## Repository Information: Expose-cds
-
-
-SAP BTP ABAP Environment: Create and Expose a CDS-Based Data Model.
 
 This tutorial is part of:
 

@@ -1,4 +1,4 @@
-# Exercism exercises in ABAP
+# Developers SAP: Create and Expose a CDS-Based Data Model
 
 
 Hi there, this is Mateo Cano / Medellín (Colombia).

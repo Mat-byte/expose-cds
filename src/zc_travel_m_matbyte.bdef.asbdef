@@ -7,4 +7,7 @@ use etag
   use create;
   use update;
   use delete;
+
+  use action acceptTravel;
+
 }

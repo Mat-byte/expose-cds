@@ -1,0 +1,25 @@
+managed implementation in class zcl_bp_i_travel_m_matbyte unique;
+
+define behavior for ZI_TRAVEL_M_MATBYTE alias Travel
+persistent table ztravel_matbyte
+lock master
+etag master last_changed_at
+{
+
+  // semantic key is calculated in a determination
+  field ( readonly ) travel_id;
+
+  // administrative fields (read only)
+  field ( readonly ) last_changed_at, last_changed_by, created_at, created_by;
+
+  // mandatory fields that are required to create a travel
+  field ( mandatory ) agency_id, overall_status, booking_fee, currency_code;
+
+  // mandatory fields that are required to create a travel
+  field ( mandatory ) Begin_Date, End_Date, Customer_ID;
+
+  // standard operations for travel entity
+  create;
+  update;
+  delete;
+}

@@ -11,7 +11,9 @@ ENDCLASS.
 
 
 
-CLASS zcl_gen_travel_data_matbyte IMPLEMENTATION.
+CLASS ZCL_GEN_TRAVEL_DATA_MATBYTE IMPLEMENTATION.
+
+
   METHOD if_oo_adt_classrun~main.
 
     DATA itab TYPE TABLE OF ztravel_xxx.
@@ -37,4 +39,3 @@ CLASS zcl_gen_travel_data_matbyte IMPLEMENTATION.
 
   ENDMETHOD.
 ENDCLASS.
-

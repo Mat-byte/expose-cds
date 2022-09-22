@@ -11,7 +11,7 @@ Hi there, this is Mateo Cano / Medellín (Colombia).
 
 ## Repository Information:
 
-This repository was created for the [Developers-SAP tutorial](https://developers.sap.com/tutorials/abap-environment-data-model.html). 
+This repository was created for the [Developers-SAP tutorial](https://developers.sap.com/group.abap-env-expose-cds-travel-model.html). 
 
 This tutorial is part of:
 

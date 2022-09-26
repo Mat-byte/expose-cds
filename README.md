@@ -1,4 +1,4 @@
-# Developers SAP: Create and Expose a CDS-Based Data Model
+# Developers SAP: Create a Travel App with SAP Fiori Elements Based on OData V4 RAP Service
 
 
 Hi there, this is Mateo Cano / Medellín (Colombia).
@@ -11,10 +11,6 @@ Hi there, this is Mateo Cano / Medellín (Colombia).
 
 ## Repository Information:
 
-This repository was created for the [Developers-SAP tutorial](https://developers.sap.com/group.abap-env-expose-cds-travel-model.html). 
-
-This tutorial is part of:
-
-- [Develop a Fiori App Using the ABAP RESTful Application Programming Model](https://developers.sap.com/group.abap-env-restful-managed.html)
+This repository was created for the [Developers-SAP tutorial](https://developers.sap.com/group.fiori-tools-odata-v4-travel.html). 
 
 
